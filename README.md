@@ -243,4 +243,4 @@ MIT License - Free to use for personal or commercial projects
 
 ---
 
-**Made with ❤️ and AI**
+**Made with ❤️ and React**
